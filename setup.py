@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='mlproject',
+name='ML_Pipeline_Project',
 version='0.0.1',
 description='Machine Learning Pipeline Project',
 author='Ishan Bakshi',
