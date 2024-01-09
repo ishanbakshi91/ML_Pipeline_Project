@@ -22,6 +22,7 @@ version='0.0.1',
 description='Machine Learning Pipeline Project',
 author='Ishan Bakshi',
 author_email='ishanbakshi91@gmail.com',
+url='https://github.com/ishanbakshi91/ML_Pipeline_Project',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 
